@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>final_project_choreographer</name>
+  <version>0.0.0</version>
+  <description>AI-driven CRANE+ robot choreographer for Physical AI final project.</description>
+  <maintainer email="YOUR_EMAIL@example.com">YOUR_NAME</maintainer>
+  <license>MIT</license>
+  <depend>rclpy</depend>
+  <depend>std_msgs</depend>
+  <depend>trajectory_msgs</depend>
+  <depend>builtin_interfaces</depend>
+  <depend>ament_index_python</depend>
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
