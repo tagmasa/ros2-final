@@ -49,4 +49,3 @@ ros2 run final_project_choreographer motion_executor
 ros2 run final_project_choreographer mood_ai_node --ros-args -p prompt:="子供が志望校に合格した！"
 注意
 本システムは自然言語の感情的な傾向を簡易分類し、ロボットの身体表現へ変換する試作システムです。医療・心理的診断を目的とするものではありません。
-=======
